@@ -1,8 +1,11 @@
-# Hi, I'm Asar 👋
+Hi, I'm Asar 👋
 
 MERN Stack Developer
 
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+  <img src="https://skillicons.dev/icons?i=express" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
 </p>
