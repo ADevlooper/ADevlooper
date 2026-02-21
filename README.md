@@ -7,10 +7,10 @@
 
 ## Contact Information
 
-- **Email**: [syedasarudeen.s@gmail.com]
+- **Email**: [syedasarudeen.s@gmail.com](mailto:syedasarudeen.s@gmail.com)
 - **LinkedIn**: [in/syed-asarudeen-linked-In/](https://www.linkedin.com/in/syed-asarudeen-linked-In/)
 - **Instagram**: [instagram.com/onlyy.asar/](https://www.instagram.com/onlyy.asar/)
-- **GitHub**: [github.com/ADevlooper](https://github.com/ADevlooper)
+- **Website**: [syedasarudeen.netlify.app](https://syedasarudeen.netlify.app/)
 
 ## I code in
 
