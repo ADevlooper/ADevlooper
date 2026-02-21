@@ -1,14 +1,15 @@
 # Hi, I'm @Asar 👋
 
-- � I’m a BCA Graduate, interested in exploring new technologies and web development.
+- 🎓 I’m a BCA Graduate, interested in exploring new technologies and web development.
 - 🌱 I’m currently enhancing my skills as a MERN Stack Developer.
-- 💞️ I’m looking to collaborate on open-source projects and innovative web applications.
-- 📫 How to reach me: [Your Email Here]
+- 👥 I’m looking to collaborate on open source projects and innovative web applications.
+
 
 ## Contact Information
 
-- **Email**: [Your Email Here]
-- **LinkedIn**: [linkedin.com/in/YourProfileHere](https://linkedin.com/in/YourProfileHere)
+- **Email**: [syedasarudeen.s@gmail.com]
+- **LinkedIn**: [in/syed-asarudeen-linked-In/](https://www.linkedin.com/in/syed-asarudeen-linked-In/)
+- **Instagram**: [instagram.com/onlyy.asar/](https://www.instagram.com/onlyy.asar/)
 - **GitHub**: [github.com/ADevlooper](https://github.com/ADevlooper)
 
 ## I code in
