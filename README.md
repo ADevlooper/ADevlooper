@@ -9,14 +9,14 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
-<div align="left" style="font-family: 'VT323', monospace; font-size: 70px; margin-top: 5px;">
+<div align="left" style="font-family: 'VT323', monospace; font-size: 100px; margin-top: 5px;">
   <span style="color: white;">Asa</span><span style="color: #FF6B00;">r</span>
 </div>
 <div align="right">
-  <a href="mailto:syedasarudeen.s@gmail.com"><img src="https://img.shields.io/badge/%20-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="32" /></a>
-  <a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img src="https://img.shields.io/badge/%20-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" /></a>
-  <a href="https://syedasarudeen.vercel.app/"><img src="https://img.shields.io/badge/%20-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" height="32" /></a>
-  <a href="https://www.instagram.com/onlyy.asar/"><img src="https://img.shields.io/badge/%20-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="32" /></a>
+  <a href="mailto:syedasarudeen.s@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" alt="Email" height="48" style="margin-left: 15px;" /></a>
+  <a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" height="48" style="margin-left: 15px;" /></a>
+  <a href="https://syedasarudeen.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/white" alt="Portfolio" height="48" style="margin-left: 15px;" /></a>
+  <a href="https://www.instagram.com/onlyy.asar/"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="48" style="margin-left: 15px;" /></a>
 </div>
 
 <br clear="both"/>
