@@ -12,14 +12,14 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
 
-<a href="https://www.instagram.com/onlyy.asar/"><img align="right" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="56" style="margin-left: 10px;" /></a>
-<a href="https://syedasarudeen.vercel.app/"><img align="right" src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="56" style="margin-left: 10px;" /></a>
-<a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img align="right" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="56" style="margin-left: 10px;" /></a>
-<a href="mailto:syedasarudeen.s@gmail.com"><img align="right" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="56" style="margin-left: 10px;" /></a>
+<a href="https://www.instagram.com/onlyy.asar/"><img align="right" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" style="margin-left: 10px;" /></a>
+<a href="https://syedasarudeen.vercel.app/"><img align="right" src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="40" style="margin-left: 10px;" /></a>
+<a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img align="right" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" style="margin-left: 10px;" /></a>
+<a href="mailto:syedasarudeen.s@gmail.com"><img align="right" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" style="margin-left: 10px;" /></a>
 
-<h1 align="left" style="font-family: 'VT323', monospace; font-size: 150px; margin: 0; padding: 0; border: none; background: transparent;">
+<div align="left" style="font-family: 'VT323', 'VT323 Static', monospace; font-size: 150px; margin: 0; padding: 0;">
   <span style="color: white;">Asa</span><span style="color: #FF6B00;">r</span>
-</h1>
+</div>
 
 <br clear="both"/>
 <br/>
