@@ -2,12 +2,13 @@
 
 <div align="center">
 
-<video src="./github profile gif.mp4" width="100%" autoplay loop muted playsinline></video>
+<img src="./assets/hero/profile-hero.jpeg" alt="Hero Banner" width="100%" />
 
 <br/>
 
-# ⚡ Asar | Software Engineer
+# $\Huge\textsf{\textbf{Asa}}\textcolor{#FF6B00}{\textsf{\textbf{r}}}$
 
+<br/>
 
 **Software Engineer @ Sierra ODC Pvt Lmt** &nbsp;&bull;&nbsp; **Full Stack Developer**
 
@@ -22,6 +23,8 @@
 <br/>
 
 ## 🔗 About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa526-cb4b-48c7-bb47-324b17f1ce68.gif" alt="Coding GIF" width="320" style="margin-left: 20px;" />
 
 ```javascript
 const asar = {
@@ -71,7 +74,7 @@ const asar = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark&perline=10" alt="Tech Stack" />
+  <img src="./assets/icons/tech-stack.svg" alt="Tech Stack" />
 </div>
 
 <br/>
@@ -99,8 +102,9 @@ const asar = {
 </table>
 
 <br/>
-
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" alt="Divider" />
+</div>
 <br/>
 
 ## 🐍 Contribution Activity
