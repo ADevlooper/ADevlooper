@@ -18,9 +18,7 @@
 
 ## 🔗 About Me
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="60%" valign="top">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa526-cb4b-48c7-bb47-324b17f1ce68.gif" alt="Coding GIF" width="320" style="margin-left: 20px;" />
 
 ```javascript
 const asar = {
@@ -40,12 +38,7 @@ const asar = {
 };
 ```
 
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa526-cb4b-48c7-bb47-324b17f1ce68.gif" alt="Coding GIF" width="80%" />
-    </td>
-  </tr>
-</table>
+<br clear="both"/>
 
 <br/>
 
@@ -96,26 +89,7 @@ const asar = {
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADevlooper&bg_color=0D1117&color=00F0FF&line=8A2BE2&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
 
-<br/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" alt="Divider" />
-</div>
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ADevlooper&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" alt="Divider" />
-</div>
 <br/>
 
 ## 🐍 Contribution Activity
@@ -134,6 +108,6 @@ const asar = {
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ADevlooper/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ADevlooper&color=00F0FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <p><i>Building with passion.</i></p>
 </div>
