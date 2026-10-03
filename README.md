@@ -4,6 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header&text=Asar&fontSize=50&fontColor=00F0FF&animation=twinkling&desc=Software%20Engineer&descSize=20&descAlignY=70" alt="Hero Banner" width="100%" />
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa526-cb4b-48c7-bb47-324b17f1ce68.gif" alt="Coding GIF" width="300" />
+<br/>
+
 **Software Engineer @ Sierra ODC Pvt Lmt** &nbsp;&bull;&nbsp; **Full Stack Developer**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Sierra+ODC;MERN+Stack+Developer;Open+Source+Collaborator;Crafting+Modern+Web+Experiences)](https://git.io/typing-svg)
@@ -17,8 +20,6 @@
 <br/>
 
 ## 🔗 About Me
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa526-cb4b-48c7-bb47-324b17f1ce68.gif" alt="Coding GIF" width="320" style="margin-left: 20px;" />
 
 ```javascript
 const asar = {
