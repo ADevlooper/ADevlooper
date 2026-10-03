@@ -12,10 +12,10 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
 
-<a href="https://www.instagram.com/onlyy.asar/"><img align="right" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="20" style="margin-left: 10px; margin-top:15px;" /></a>
-<a href="https://syedasarudeen.vercel.app/"><img align="right" src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="20" style="margin-left: 10px;margin-top:15px;" /></a>
-<a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img align="right" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="20" style="margin-left: 10px;margin-top:15px;" /></a>
-<a href="mailto:syedasarudeen.s@gmail.com"><img align="right" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="20" style="margin-left: 10px;margin-top:15px;" /></a>
+<a href="https://www.instagram.com/onlyy.asar/"><img align="right" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="20" style="margin-left:5px; margin-top:15px;" /></a>
+<a href="https://syedasarudeen.vercel.app/"><img align="right" src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="20" style="margin-left:5px;margin-top:15px;" /></a>
+<a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img align="right" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="20" style="margin-left:5px;margin-top:15px;" /></a>
+<a href="mailto:syedasarudeen.s@gmail.com"><img align="right" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="20" style="margin-left:5px;margin-top:15px;" /></a>
 
 <div align="left" style="
   font-family: VT323; monospace;
