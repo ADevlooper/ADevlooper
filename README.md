@@ -15,8 +15,8 @@
 <a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img align="right" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="28" style="margin-left: 3px; margin-top: 5px;" /></a>
 <a href="mailto:syedasarudeen.s@gmail.com"><img align="right" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="28" style="margin-left: 3px; margin-top: 5px;" /></a>
 
-<div align="left" style="font-family: 'VT323', monospace; font-size: 80px;">
-  $\Huge\mathtt{Asa}\textcolor{#FF6B00}{\mathtt{r}}$
+<div align="left" style="font-family: 'VT323', 'VT323 Static', monospace; font-size: 80px; font-weight: 400;">
+  <span style="color: white;">Asa</span><span style="color: #FF6B00;">r</span>
 </div>
 
 <br clear="both"/>
@@ -49,12 +49,7 @@ const asar = {
     "Exploring new technologies",
     "Web development",
     "Open-source projects"
-  ],
-  workspace: {
-    machine: "Victus by HP Gaming Laptop",
-    cpu: "Ryzen 5 5600H",
-    ram: "8GB"
-  }
+  ]
 };
 ```
 
@@ -62,11 +57,32 @@ const asar = {
 
 
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Workspace
 
-<div align="center">
-  <img src="./assets/icons/tech-stack.svg" alt="Tech Stack" />
-</div>
+<table width="100%" border="0" style="background: transparent;">
+  <tr>
+    <td width="65%" valign="top" align="center">
+      <img src="./assets/icons/tech-stack.svg" alt="Tech Stack" width="100%" />
+    </td>
+    <td width="35%" valign="top" align="center">
+      <h3>💻 Workspace Specs</h3>
+      <table width="100%" align="center">
+        <tr>
+          <td>🖥️ <b>Machine</b></td>
+          <td align="right">HP Victus Gaming</td>
+        </tr>
+        <tr>
+          <td>⚙️ <b>CPU</b></td>
+          <td align="right">Ryzen 5 5600H</td>
+        </tr>
+        <tr>
+          <td>🧠 <b>RAM</b></td>
+          <td align="right">8GB</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <br/>
 <div align="center">
