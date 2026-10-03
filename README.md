@@ -57,12 +57,19 @@ const asar = {
 
 
 
-## 🛠️ Tech Stack & Workspace
-
 <table width="100%" border="0" style="background: transparent;">
   <tr>
     <td width="65%" valign="top" align="center">
-      <img src="./assets/icons/tech-stack.svg" alt="Tech Stack" width="100%" />
+      <h3>🛠️ Tech Stack</h3>
+      <div style="font-size: 45px; margin-top: 15px;">
+        <i class="fa-brands fa-html5" style="color: #E34F26; margin: 0 8px;"></i>
+        <i class="fa-brands fa-css3-alt" style="color: #1572B6; margin: 0 8px;"></i>
+        <i class="fa-brands fa-js" style="color: #F7DF1E; margin: 0 8px;"></i>
+        <i class="fa-brands fa-react" style="color: #61DAFB; margin: 0 8px;"></i>
+        <i class="fa-brands fa-node-js" style="color: #339933; margin: 0 8px;"></i>
+        <i class="fa-brands fa-git-alt" style="color: #F05032; margin: 0 8px;"></i>
+        <i class="fa-brands fa-github" style="color: #ffffff; margin: 0 8px;"></i>
+      </div>
     </td>
     <td width="35%" valign="top" align="center">
       <h3>💻 Workspace Specs</h3>
