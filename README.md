@@ -57,37 +57,56 @@ const asar = {
 
 
 
-<table width="100%" border="0" style="background: transparent;">
+<table style="width: 100%; min-width: 100vw; border-collapse: collapse; border: none;">
   <tr>
-    <td width="65%" valign="top" align="center">
+    <td width="65%" valign="top" align="center" style="border: none;">
       <h3>🛠️ Tech Stack</h3>
-      <div align="center" style="margin-top: 15px;">
-        <!-- Main Stack (Skillicons) -->
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vite,redux,nodejs,express,mongodb,git,github,postman,vercel,netlify,figma,ps&perline=6" alt="Tech Stack" />
-        </a>
-        <br/><br/>
-        <!-- Additional Tools (Shields.io) -->
-        <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
-        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" />
-        <img src="https://img.shields.io/badge/MS_Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" alt="MS Word" />
-        <img src="https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="MS Excel" />
+      <div style="font-size: 38px; margin-top: 15px; line-height: 1.6;">
+        <!-- UI & Styling -->
+        <i class="fa-brands fa-html5" title="HTML5" style="color: #E34F26; margin: 0 8px;"></i>
+        <i class="fa-brands fa-css3-alt" title="CSS3" style="color: #1572B6; margin: 0 8px;"></i>
+        <i class="fa-brands fa-bootstrap" title="Bootstrap" style="color: #7952B3; margin: 0 8px;"></i>
+        <i class="fa-solid fa-wind" title="Tailwind CSS" style="color: #06B6D4; margin: 0 8px;"></i>
+        <i class="fa-brands fa-js" title="JavaScript" style="color: #F7DF1E; margin: 0 8px;"></i>
+        <i class="fa-brands fa-react" title="React" style="color: #61DAFB; margin: 0 8px;"></i>
+        <br/>
+        <!-- Tools & State -->
+        <i class="fa-solid fa-bolt" title="Vite" style="color: #646CFF; margin: 0 8px;"></i>
+        <i class="fa-solid fa-code-branch" title="Redux" style="color: #764ABC; margin: 0 8px;"></i>
+        <i class="fa-solid fa-network-wired" title="Axios" style="color: #5A29E4; margin: 0 8px;"></i>
+        <i class="fa-brands fa-node-js" title="Node.js" style="color: #339933; margin: 0 8px;"></i>
+        <i class="fa-brands fa-node" title="Express.js" style="color: #ffffff; margin: 0 8px;"></i>
+        <i class="fa-solid fa-leaf" title="MongoDB" style="color: #47A248; margin: 0 8px;"></i>
+        <br/>
+        <!-- DevOps & Platforms -->
+        <i class="fa-brands fa-git-alt" title="Git" style="color: #F05032; margin: 0 8px;"></i>
+        <i class="fa-brands fa-github" title="GitHub" style="color: #ffffff; margin: 0 8px;"></i>
+        <i class="fa-solid fa-rocket" title="Postman" style="color: #FF6C37; margin: 0 8px;"></i>
+        <i class="fa-solid fa-caret-up" title="Vercel" style="color: #ffffff; margin: 0 8px;"></i>
+        <i class="fa-solid fa-diamond" title="Netlify" style="color: #00C7B7; margin: 0 8px;"></i>
+        <i class="fa-solid fa-cloud" title="Render" style="color: #46E3B7; margin: 0 8px;"></i>
+        <br/>
+        <!-- Design & Docs -->
+        <i class="fa-brands fa-figma" title="Figma" style="color: #F24E1E; margin: 0 8px;"></i>
+        <i class="fa-brands fa-adobe" title="Photoshop" style="color: #FF0000; margin: 0 8px;"></i>
+        <i class="fa-solid fa-file-word" title="MS Word" style="color: #2B579A; margin: 0 8px;"></i>
+        <i class="fa-solid fa-file-excel" title="MS Excel" style="color: #217346; margin: 0 8px;"></i>
       </div>
     </td>
-    <td width="35%" valign="top" align="center">
+    <td width="35%" valign="top" align="center" style="border: none;">
       <h3>💻 Workspace Specs</h3>
-      <table width="100%" align="center">
+      <table style="width: 100%; border-collapse: collapse; border: none; margin-top: 15px;">
         <tr>
-          <td>🖥️ <b>Machine</b></td>
-          <td align="right">HP Victus Gaming</td>
+          <td style="border: none; padding: 10px;">🖥️ <b>Machine</b></td>
+          <td align="right" style="border: none; padding: 10px;">HP Victus Gaming</td>
         </tr>
         <tr>
-          <td>⚙️ <b>CPU</b></td>
-          <td align="right">Ryzen 5 5600H</td>
+          <td style="border: none; padding: 10px;">⚙️ <b>CPU</b></td>
+          <td align="right" style="border: none; padding: 10px;">Ryzen 5 5600H</td>
         </tr>
         <tr>
-          <td>🧠 <b>RAM</b></td>
-          <td align="right">8GB</td>
+          <td style="border: none; padding: 10px;">🧠 <b>RAM</b></td>
+          <td align="right" style="border: none; padding: 10px;">8GB</td>
         </tr>
       </table>
     </td>
