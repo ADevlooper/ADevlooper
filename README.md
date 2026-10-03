@@ -124,15 +124,15 @@ const asar = {
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ADevlooper&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=8A2BE2&text_color=C9D1D9&count_private=true" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ADevlooper&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6A8A9E&icon_color=7B7A9E&text_color=8B949E&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADevlooper&layout=donut&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADevlooper&layout=donut&hide_border=true&bg_color=0D1117&title_color=6A8A9E&text_color=8B949E" alt="Top Languages" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADevlooper&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&currStreakLabel=8A2BE2" alt="GitHub Streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADevlooper&hide_border=true&background=0D1117&ring=6A8A9E&fire=6A8A9E&currStreakNum=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&currStreakLabel=7B7A9E" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
