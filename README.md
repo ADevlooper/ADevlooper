@@ -66,41 +66,43 @@ const asar = {
 <div align="center" style="margin-top: 20px; margin-bottom: 60px;">
   <div style="font-size: 34px; line-height: 2.2;">
     <!-- Top Row -->
-    <i class="fa-brands fa-react" title="React" style="color: #61DAFB; margin: 0 40px;"></i>
-    <i class="fa-solid fa-code-branch" title="Redux" style="color: #764ABC; margin: 0 20px;"></i>
-    <i class="fa-brands fa-js" title="JavaScript" style="color: #F7DF1E; margin: 0 50px;"></i>
-    <i class="fa-brands fa-css3-alt" title="CSS3" style="color: #1572B6; margin: 0 30px;"></i>
-    <br/>
+    <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" style="margin: 0 40px;" />
+    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" height="40" style="margin: 0 20px;" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" style="margin: 0 50px;" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="40" style="margin: 0 30px;" />
+    <br/><br/>
     <!-- Upper Mid Row -->
-    <i class="fa-brands fa-node-js" title="Node.js" style="color: #339933; margin: 0 60px;"></i>
-    <i class="fa-solid fa-leaf" title="MongoDB" style="color: #47A248; margin: 0 30px;"></i>
-    <i class="fa-solid fa-wind" title="Tailwind CSS" style="color: #06B6D4; margin: 0 50px;"></i>
-    <i class="fa-brands fa-git-alt" title="Git" style="color: #F05032; margin: 0 25px;"></i>
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" style="margin: 0 60px;" />
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" style="margin: 0 30px;" />
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="40" style="margin: 0 50px;" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" style="margin: 0 25px;" />
     <br/>
   </div>
   
-  <h2 style="margin: 15px 0; font-family: 'VT323', 'VT323 Static', monospace; font-size: 38px; border-bottom: none;">🛠️ Tech Stack</h2>
+  <div style="margin: 25px 0; font-family: 'VT323', 'VT323 Static', monospace; font-weight: 600;">
+    <font size="6">🛠️ Tech Stack</font>
+  </div>
   
-  <div style="font-size: 34px; line-height: 2.2;">
+  <div style="line-height: 2.2;">
     <!-- Lower Mid Row -->
-    <i class="fa-brands fa-html5" title="HTML5" style="color: #E34F26; margin: 0 45px;"></i>
-    <i class="fa-brands fa-node" title="Express.js" style="color: #ffffff; margin: 0 15px;"></i>
-    <i class="fa-brands fa-github" title="GitHub" style="color: #ffffff; margin: 0 65px;"></i>
-    <i class="fa-brands fa-figma" title="Figma" style="color: #F24E1E; margin: 0 25px;"></i>
-    <br/>
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="40" style="margin: 0 45px;" />
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" height="40" style="margin: 0 15px;" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" style="margin: 0 65px;" />
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" style="margin: 0 25px;" />
+    <br/><br/>
     <!-- Bottom Row -->
-    <i class="fa-solid fa-bolt" title="Vite" style="color: #646CFF; margin: 0 30px;"></i>
-    <i class="fa-solid fa-rocket" title="Postman" style="color: #FF6C37; margin: 0 20px;"></i>
-    <i class="fa-brands fa-bootstrap" title="Bootstrap" style="color: #7952B3; margin: 0 45px;"></i>
-    <i class="fa-solid fa-caret-up" title="Vercel" style="color: #ffffff; margin: 0 15px;"></i>
-    <i class="fa-solid fa-diamond" title="Netlify" style="color: #00C7B7; margin: 0 35px;"></i>
-    <br/>
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" height="40" style="margin: 0 30px;" />
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40" style="margin: 0 20px;" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40" style="margin: 0 45px;" />
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="40" style="margin: 0 15px;" />
+    <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" height="40" style="margin: 0 35px;" />
+    <br/><br/>
     <!-- Outer Fringe -->
-    <i class="fa-solid fa-network-wired" title="Axios" style="color: #5A29E4; margin: 0 50px;"></i>
-    <i class="fa-solid fa-cloud" title="Render" style="color: #46E3B7; margin: 0 30px;"></i>
-    <i class="fa-brands fa-adobe" title="Photoshop" style="color: #FF0000; margin: 0 40px;"></i>
-    <i class="fa-solid fa-file-word" title="MS Word" style="color: #2B579A; margin: 0 20px;"></i>
-    <i class="fa-solid fa-file-excel" title="MS Excel" style="color: #217346; margin: 0 25px;"></i>
+    <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" height="28" style="margin: 0 20px;" />
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" height="28" style="margin: 0 20px;" />
+    <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" height="40" style="margin: 0 20px;" />
+    <img src="https://img.shields.io/badge/MS_Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" alt="MS Word" height="28" style="margin: 0 20px;" />
+    <img src="https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="MS Excel" height="28" style="margin: 0 20px;" />
   </div>
 </div>
 
