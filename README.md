@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header&text=Asar&fontSize=50&fontColor=00F0FF&animation=twinkling&desc=Software%20Engineer&descSize=20&descAlignY=70" alt="Hero Banner" width="100%" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa526-cb4b-48c7-bb47-324b17f1ce68.gif" alt="Coding GIF" width="300" />
+<img src="./github profile gif.mp4" alt="Coding GIF" width="300" />
 <br/>
 
 **Software Engineer @ Sierra ODC Pvt Lmt** &nbsp;&bull;&nbsp; **Full Stack Developer**
