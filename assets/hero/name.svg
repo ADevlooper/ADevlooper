@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="80" viewBox="0 0 200 80">
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=VT323&amp;display=swap');
       .name {
-        font-family: 'Press Start 2P', cursive;
-        font-size: 32px;
+        font-family: 'VT323', monospace;
+        font-size: 64px;
       }
       .white-text { fill: #FFFFFF; }
       .orange-text { fill: #FF6B00; }

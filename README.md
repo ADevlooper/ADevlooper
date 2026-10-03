@@ -2,23 +2,19 @@
 
 <div align="center">
 
-<img src="./assets/hero/profile-hero.jpeg" alt="Hero Banner" width="100%" height="300" style="object-fit: cover;" />
+<img src="./assets/hero/profile-hero.jpeg" alt="Hero Banner" width="100%" />
 
 <br/>
 
-<table width="100%" style="border:none; border-collapse: collapse; background: transparent;">
-  <tr>
-    <td align="left" width="40%" style="border:none;">
-      <img src="./assets/hero/name.svg" alt="Asar" height="50" />
-    </td>
-    <td align="right" width="60%" style="border:none;">
-      <a href="mailto:syedasarudeen.s@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-      <a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-      <a href="https://syedasarudeen.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-      <a href="https://www.instagram.com/onlyy.asar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    </td>
-  </tr>
-</table>
+<img align="left" src="./assets/hero/name.svg" alt="Asar" height="45" style="margin-top: 5px;" />
+<div align="right">
+  <a href="mailto:syedasarudeen.s@gmail.com"><img src="https://img.shields.io/badge/%20-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="32" /></a>
+  <a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img src="https://img.shields.io/badge/%20-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" /></a>
+  <a href="https://syedasarudeen.vercel.app/"><img src="https://img.shields.io/badge/%20-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" height="32" /></a>
+  <a href="https://www.instagram.com/onlyy.asar/"><img src="https://img.shields.io/badge/%20-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="32" /></a>
+</div>
+
+<br clear="both"/>
 
 <br/>
 
