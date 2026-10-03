@@ -38,7 +38,7 @@
 
 ## 🔗 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa526-cb4b-48c7-bb47-324b17f1ce68.gif" alt="Coding GIF" width="320" style="margin-left: 20px;" />
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212284100-561aa526-cb4b-48c7-bb47-324b17f1ce68.gif" alt="Coding GIF" width="320" style="margin-right: 20px; margin-bottom: 10px;" />
 
 ```javascript
 const asar = {
