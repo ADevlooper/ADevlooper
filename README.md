@@ -2,11 +2,23 @@
 
 <div align="center">
 
-<img src="./assets/hero/profile-hero.jpeg" alt="Hero Banner" width="100%" Height="30%" />
+<img src="./assets/hero/profile-hero.jpeg" alt="Hero Banner" width="100%" height="300" style="object-fit: cover;" />
 
 <br/>
 
-# $\Huge\textsf{\textbf{Asa}}\textcolor{#FF6B00}{\textsf{\textbf{r}}}$
+<table width="100%" style="border:none; border-collapse: collapse; background: transparent;">
+  <tr>
+    <td align="left" width="40%" style="border:none;">
+      <img src="./assets/hero/name.svg" alt="Asar" height="50" />
+    </td>
+    <td align="right" width="60%" style="border:none;">
+      <a href="mailto:syedasarudeen.s@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      <a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      <a href="https://syedasarudeen.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+      <a href="https://www.instagram.com/onlyy.asar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -46,30 +58,7 @@ const asar = {
 
 <br clear="both"/>
 
-<br/>
 
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="mailto:syedasarudeen.s@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://syedasarudeen.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.instagram.com/onlyy.asar/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" alt="Divider" />
-</div>
-<br/>
 
 ## 🛠️ Tech Stack
 
