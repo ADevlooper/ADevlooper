@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# ⚡ Asar | Software Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header&text=Asar&fontSize=50&fontColor=00F0FF&animation=twinkling&desc=Software%20Engineer&descSize=20&descAlignY=70" alt="Hero Banner" />
 
 **Software Engineer @ Sierra ODC Pvt Lmt** &nbsp;&bull;&nbsp; **Full Stack Developer**
 
@@ -17,6 +17,10 @@
 
 </div>
 
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" alt="Divider" />
+</div>
 <br/>
 
 ## 👨‍💻 Developer Overview
@@ -45,6 +49,10 @@
 </table>
 
 <br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" alt="Divider" />
+</div>
+<br/>
 
 ## 🛠️ Technology Stack Dashboard
 
@@ -65,6 +73,10 @@
   </tr>
 </table>
 
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" alt="Divider" />
+</div>
 <br/>
 
 ## 📊 GitHub Analytics
@@ -87,11 +99,22 @@
 </table>
 
 <br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" alt="Divider" />
+</div>
+<br/>
 
-## 📈 Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADevlooper&bg_color=0D1117&color=00F0FF&line=8A2BE2&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+  <br/><br/>
+  <!-- Animated GitHub Contribution Snake (Generated via GitHub Actions) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADevlooper/ADevlooper/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADevlooper/ADevlooper/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ADevlooper/ADevlooper/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 <br/>
