@@ -6,7 +6,12 @@
 
 <br/>
 
-<img align="left" src="./assets/hero/name.svg" alt="Asar" height="45" style="margin-top: 5px;" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+<div align="left" style="font-family: 'VT323', monospace; font-size: 48px; margin-top: 5px;">
+  <span style="color: white;">Asa</span><span style="color: #FF6B00;">r</span>
+</div>
 <div align="right">
   <a href="mailto:syedasarudeen.s@gmail.com"><img src="https://img.shields.io/badge/%20-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="32" /></a>
   <a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img src="https://img.shields.io/badge/%20-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" /></a>
