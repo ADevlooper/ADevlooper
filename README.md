@@ -2,10 +2,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header&text=Asar&fontSize=50&fontColor=00F0FF&animation=twinkling&desc=Software%20Engineer&descSize=20&descAlignY=70" alt="Hero Banner" width="100%" />
+<video src="./github profile gif.mp4" width="100%" autoplay loop muted playsinline></video>
 
-<img src="./github profile gif.mp4" alt="Coding GIF" width="300" />
 <br/>
+
+# ⚡ Asar | Software Engineer
+
 
 **Software Engineer @ Sierra ODC Pvt Lmt** &nbsp;&bull;&nbsp; **Full Stack Developer**
 
