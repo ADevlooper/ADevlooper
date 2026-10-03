@@ -10,16 +10,21 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
 
-<a href="https://www.instagram.com/onlyy.asar/"><img align="right" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="28" style="margin-left: 3px; margin-top: 5px;" /></a>
-<a href="https://syedasarudeen.vercel.app/"><img align="right" src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="28" style="margin-left: 3px; margin-top: 5px;" /></a>
-<a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img align="right" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="28" style="margin-left: 3px; margin-top: 5px;" /></a>
-<a href="mailto:syedasarudeen.s@gmail.com"><img align="right" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="28" style="margin-left: 3px; margin-top: 5px;" /></a>
-
-<h2 align="left" style="font-family: 'VT323', 'VT323 Static', monospace; font-weight: 600; border-bottom: none; margin-top: 10px; margin-bottom: 0;">
-  <span style="color: white;">Asa</span><span style="color: #FF6B00;">r</span>
-</h2>
-
-<br clear="both"/>
+<table width="100%" border="0" style="width: 100%; border-collapse: collapse; border: none; margin-top: 10px;">
+  <tr>
+    <td align="left" valign="middle" style="border: none; padding: 0;">
+      <div style="font-family: 'VT323', 'VT323 Static', monospace; font-weight: 600;">
+        <font size="5" color="white">Asa</font><font size="5" color="#FF6B00">r</font>
+      </div>
+    </td>
+    <td align="right" valign="middle" style="border: none; padding: 0;">
+      <a href="mailto:syedasarudeen.s@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="28" style="margin-left: 5px;" /></a>
+      <a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="28" style="margin-left: 5px;" /></a>
+      <a href="https://syedasarudeen.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="28" style="margin-left: 5px;" /></a>
+      <a href="https://www.instagram.com/onlyy.asar/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="28" style="margin-left: 5px;" /></a>
+    </td>
+  </tr>
+</table>
 <br/>
 
 <div align="center">
@@ -57,61 +62,68 @@ const asar = {
 
 
 
-<table width="100%" border="0" style="width: 100%; min-width: 100vw; border-collapse: collapse; border: none;">
-  <tr>
-    <td width="65%" valign="top" align="center" style="border: none;">
-      <h3>🛠️ Tech Stack</h3>
-      <div style="font-size: 38px; margin-top: 15px; line-height: 1.6;">
-        <!-- UI & Styling -->
-        <i class="fa-brands fa-html5" title="HTML5" style="color: #E34F26; margin: 0 8px;"></i>
-        <i class="fa-brands fa-css3-alt" title="CSS3" style="color: #1572B6; margin: 0 8px;"></i>
-        <i class="fa-brands fa-bootstrap" title="Bootstrap" style="color: #7952B3; margin: 0 8px;"></i>
-        <i class="fa-solid fa-wind" title="Tailwind CSS" style="color: #06B6D4; margin: 0 8px;"></i>
-        <i class="fa-brands fa-js" title="JavaScript" style="color: #F7DF1E; margin: 0 8px;"></i>
-        <i class="fa-brands fa-react" title="React" style="color: #61DAFB; margin: 0 8px;"></i>
-        <br/>
-        <!-- Tools & State -->
-        <i class="fa-solid fa-bolt" title="Vite" style="color: #646CFF; margin: 0 8px;"></i>
-        <i class="fa-solid fa-code-branch" title="Redux" style="color: #764ABC; margin: 0 8px;"></i>
-        <i class="fa-solid fa-network-wired" title="Axios" style="color: #5A29E4; margin: 0 8px;"></i>
-        <i class="fa-brands fa-node-js" title="Node.js" style="color: #339933; margin: 0 8px;"></i>
-        <i class="fa-brands fa-node" title="Express.js" style="color: #ffffff; margin: 0 8px;"></i>
-        <i class="fa-solid fa-leaf" title="MongoDB" style="color: #47A248; margin: 0 8px;"></i>
-        <br/>
-        <!-- DevOps & Platforms -->
-        <i class="fa-brands fa-git-alt" title="Git" style="color: #F05032; margin: 0 8px;"></i>
-        <i class="fa-brands fa-github" title="GitHub" style="color: #ffffff; margin: 0 8px;"></i>
-        <i class="fa-solid fa-rocket" title="Postman" style="color: #FF6C37; margin: 0 8px;"></i>
-        <i class="fa-solid fa-caret-up" title="Vercel" style="color: #ffffff; margin: 0 8px;"></i>
-        <i class="fa-solid fa-diamond" title="Netlify" style="color: #00C7B7; margin: 0 8px;"></i>
-        <i class="fa-solid fa-cloud" title="Render" style="color: #46E3B7; margin: 0 8px;"></i>
-        <br/>
-        <!-- Design & Docs -->
-        <i class="fa-brands fa-figma" title="Figma" style="color: #F24E1E; margin: 0 8px;"></i>
-        <i class="fa-brands fa-adobe" title="Photoshop" style="color: #FF0000; margin: 0 8px;"></i>
-        <i class="fa-solid fa-file-word" title="MS Word" style="color: #2B579A; margin: 0 8px;"></i>
-        <i class="fa-solid fa-file-excel" title="MS Excel" style="color: #217346; margin: 0 8px;"></i>
-      </div>
-    </td>
-    <td width="35%" valign="top" align="center" style="border: none;">
-      <h3>💻 Workspace Specs</h3>
-      <table style="width: 100%; border-collapse: collapse; border: none; margin-top: 15px;">
-        <tr>
-          <td style="border: none; padding: 10px;">🖥️ <b>Machine</b></td>
-          <td align="right" style="border: none; padding: 10px;">HP Victus Gaming</td>
-        </tr>
-        <tr>
-          <td style="border: none; padding: 10px;">⚙️ <b>CPU</b></td>
-          <td align="right" style="border: none; padding: 10px;">Ryzen 5 5600H</td>
-        </tr>
-        <tr>
-          <td style="border: none; padding: 10px;">🧠 <b>RAM</b></td>
-          <td align="right" style="border: none; padding: 10px;">8GB</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<!-- TECH STACK SECTION -->
+<div align="center" style="margin-top: 20px; margin-bottom: 60px;">
+  <div style="font-size: 34px; line-height: 2.2;">
+    <!-- Top Row -->
+    <i class="fa-brands fa-react" title="React" style="color: #61DAFB; margin: 0 40px;"></i>
+    <i class="fa-solid fa-code-branch" title="Redux" style="color: #764ABC; margin: 0 20px;"></i>
+    <i class="fa-brands fa-js" title="JavaScript" style="color: #F7DF1E; margin: 0 50px;"></i>
+    <i class="fa-brands fa-css3-alt" title="CSS3" style="color: #1572B6; margin: 0 30px;"></i>
+    <br/>
+    <!-- Upper Mid Row -->
+    <i class="fa-brands fa-node-js" title="Node.js" style="color: #339933; margin: 0 60px;"></i>
+    <i class="fa-solid fa-leaf" title="MongoDB" style="color: #47A248; margin: 0 30px;"></i>
+    <i class="fa-solid fa-wind" title="Tailwind CSS" style="color: #06B6D4; margin: 0 50px;"></i>
+    <i class="fa-brands fa-git-alt" title="Git" style="color: #F05032; margin: 0 25px;"></i>
+    <br/>
+  </div>
+  
+  <h2 style="margin: 15px 0; font-family: 'VT323', 'VT323 Static', monospace; font-size: 38px; border-bottom: none;">🛠️ Tech Stack</h2>
+  
+  <div style="font-size: 34px; line-height: 2.2;">
+    <!-- Lower Mid Row -->
+    <i class="fa-brands fa-html5" title="HTML5" style="color: #E34F26; margin: 0 45px;"></i>
+    <i class="fa-brands fa-node" title="Express.js" style="color: #ffffff; margin: 0 15px;"></i>
+    <i class="fa-brands fa-github" title="GitHub" style="color: #ffffff; margin: 0 65px;"></i>
+    <i class="fa-brands fa-figma" title="Figma" style="color: #F24E1E; margin: 0 25px;"></i>
+    <br/>
+    <!-- Bottom Row -->
+    <i class="fa-solid fa-bolt" title="Vite" style="color: #646CFF; margin: 0 30px;"></i>
+    <i class="fa-solid fa-rocket" title="Postman" style="color: #FF6C37; margin: 0 20px;"></i>
+    <i class="fa-brands fa-bootstrap" title="Bootstrap" style="color: #7952B3; margin: 0 45px;"></i>
+    <i class="fa-solid fa-caret-up" title="Vercel" style="color: #ffffff; margin: 0 15px;"></i>
+    <i class="fa-solid fa-diamond" title="Netlify" style="color: #00C7B7; margin: 0 35px;"></i>
+    <br/>
+    <!-- Outer Fringe -->
+    <i class="fa-solid fa-network-wired" title="Axios" style="color: #5A29E4; margin: 0 50px;"></i>
+    <i class="fa-solid fa-cloud" title="Render" style="color: #46E3B7; margin: 0 30px;"></i>
+    <i class="fa-brands fa-adobe" title="Photoshop" style="color: #FF0000; margin: 0 40px;"></i>
+    <i class="fa-solid fa-file-word" title="MS Word" style="color: #2B579A; margin: 0 20px;"></i>
+    <i class="fa-solid fa-file-excel" title="MS Excel" style="color: #217346; margin: 0 25px;"></i>
+  </div>
+</div>
+
+<!-- WORKSPACE SPECS SECTION -->
+<div align="center" style="margin-bottom: 40px;">
+  <div style="max-width: 450px; background-color: #161b22; padding: 25px; border-radius: 12px; border: 1px solid #30363d;">
+    <h3 style="margin-top: 0; margin-bottom: 20px; border-bottom: none; color: #ffffff;">💻 Workspace Specs</h3>
+    <table style="width: 100%; border-collapse: collapse; border: none; font-size: 16px;">
+      <tr>
+        <td align="left" style="border: none; padding: 12px 5px; border-bottom: 1px solid #30363d; color: #c9d1d9;">🖥️ <b>Machine</b></td>
+        <td align="right" style="border: none; padding: 12px 5px; border-bottom: 1px solid #30363d; color: #8b949e;">HP Victus Gaming</td>
+      </tr>
+      <tr>
+        <td align="left" style="border: none; padding: 12px 5px; border-bottom: 1px solid #30363d; color: #c9d1d9;">⚙️ <b>CPU</b></td>
+        <td align="right" style="border: none; padding: 12px 5px; border-bottom: 1px solid #30363d; color: #8b949e;">Ryzen 5 5600H</td>
+      </tr>
+      <tr>
+        <td align="left" style="border: none; padding: 12px 5px; color: #c9d1d9;">🧠 <b>RAM</b></td>
+        <td align="right" style="border: none; padding: 12px 5px; color: #8b949e;">8GB</td>
+      </tr>
+    </table>
+  </div>
+</div>
 
 <br/>
 <div align="center">
