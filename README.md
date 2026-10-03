@@ -6,29 +6,25 @@
 
 <br/>
 
+</div>
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background: transparent;">
-  <tr>
-    <td width="50%" align="left" valign="middle">
-      <div style="font-family: 'VT323', monospace; font-size: 130px; line-height: 1;">
-        <span style="color: white;">Asa</span><span style="color: #FF6B00;">r</span>
-      </div>
-    </td>
-    <td width="50%" align="right" valign="middle">
-      <a href="mailto:syedasarudeen.s@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="56" /></a>
-      <a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="56" /></a>
-      <a href="https://syedasarudeen.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="56" /></a>
-      <a href="https://www.instagram.com/onlyy.asar/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="56" /></a>
-    </td>
-  </tr>
-</table>
+<a href="https://www.instagram.com/onlyy.asar/"><img align="right" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="56" style="margin-left: 10px;" /></a>
+<a href="https://syedasarudeen.vercel.app/"><img align="right" src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="56" style="margin-left: 10px;" /></a>
+<a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img align="right" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="56" style="margin-left: 10px;" /></a>
+<a href="mailto:syedasarudeen.s@gmail.com"><img align="right" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="56" style="margin-left: 10px;" /></a>
+
+<h1 align="left" style="font-family: 'VT323', monospace; font-size: 150px; margin: 0; padding: 0; border: none; background: transparent;">
+  <span style="color: white;">Asa</span><span style="color: #FF6B00;">r</span>
+</h1>
 
 <br clear="both"/>
-
 <br/>
+
+<div align="center">
 
 **Software Engineer @ Sierra ODC Pvt Lmt** &nbsp;&bull;&nbsp; **Full Stack Developer**
 
