@@ -4,22 +4,19 @@
 
 <img src="./assets/hero/profile-hero.jpeg" alt="Hero Banner" width="100%" />
 
-<br/>
-
 </div>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
-<br/>
 
-<a href="https://www.instagram.com/onlyy.asar/"><img align="right" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="20" style="margin-left: 2px;" /></a>
-<a href="https://syedasarudeen.vercel.app/"><img align="right" src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="20" style="margin-left: 2px;" /></a>
-<a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img align="right" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="20" style="margin-left: 2px;" /></a>
-<a href="mailto:syedasarudeen.s@gmail.com"><img align="right" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="20" style="margin-left: 2px;" /></a>
+<a href="https://www.instagram.com/onlyy.asar/"><img align="right" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="28" style="margin-left: 3px; margin-top: 5px;" /></a>
+<a href="https://syedasarudeen.vercel.app/"><img align="right" src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="28" style="margin-left: 3px; margin-top: 5px;" /></a>
+<a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img align="right" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="28" style="margin-left: 3px; margin-top: 5px;" /></a>
+<a href="mailto:syedasarudeen.s@gmail.com"><img align="right" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="28" style="margin-left: 3px; margin-top: 5px;" /></a>
 
-<div align="left" style="font-family: 'VT323', monospace; font-weight: 400; font-style: normal; font-size: 60px;">
-  <span style="color: white;">Asa</span><span style="color: #FF6B00;">r</span>
+<div align="left" style="font-family: 'VT323', monospace; font-size: 80px;">
+  $\Huge\mathtt{Asa}\textcolor{#FF6B00}{\mathtt{r}}$
 </div>
 
 <br clear="both"/>
