@@ -15,9 +15,9 @@
 <a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img align="right" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="28" style="margin-left: 3px; margin-top: 5px;" /></a>
 <a href="mailto:syedasarudeen.s@gmail.com"><img align="right" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="28" style="margin-left: 3px; margin-top: 5px;" /></a>
 
-<div align="left" style="font-family: 'VT323', 'VT323 Static', monospace; font-size: 80px; font-weight: 400;">
+<h2 align="left" style="font-family: 'VT323', 'VT323 Static', monospace; font-weight: 600; border-bottom: none; margin-top: 10px; margin-bottom: 0;">
   <span style="color: white;">Asa</span><span style="color: #FF6B00;">r</span>
-</div>
+</h2>
 
 <br clear="both"/>
 <br/>
