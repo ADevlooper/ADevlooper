@@ -9,7 +9,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
-<div align="left" style="font-family: 'VT323', monospace; font-size: 48px; margin-top: 5px;">
+<div align="left" style="font-family: 'VT323', monospace; font-size: 70px; margin-top: 5px;">
   <span style="color: white;">Asa</span><span style="color: #FF6B00;">r</span>
 </div>
 <div align="right">
