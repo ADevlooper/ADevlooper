@@ -57,7 +57,7 @@ const asar = {
 
 
 
-<table style="width: 100%; min-width: 100vw; border-collapse: collapse; border: none;">
+<table width="100%" border="0" style="width: 100%; min-width: 100vw; border-collapse: collapse; border: none;">
   <tr>
     <td width="65%" valign="top" align="center" style="border: none;">
       <h3>🛠️ Tech Stack</h3>
