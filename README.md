@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/hero/profile-hero.jpeg" alt="Hero Banner" width="100%" />
+<img src="./assets/hero/profile-hero.jpeg" alt="Hero Banner" width="100%" Height="30%" />
 
 <br/>
 
