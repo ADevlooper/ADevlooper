@@ -9,15 +9,22 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
-<div align="left" style="font-family: 'VT323', monospace; font-size: 100px; margin-top: 5px;">
-  <span style="color: white;">Asa</span><span style="color: #FF6B00;">r</span>
-</div>
-<div align="right">
-  <a href="mailto:syedasarudeen.s@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" alt="Email" height="48" style="margin-left: 15px;" /></a>
-  <a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" height="48" style="margin-left: 15px;" /></a>
-  <a href="https://syedasarudeen.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/white" alt="Portfolio" height="48" style="margin-left: 15px;" /></a>
-  <a href="https://www.instagram.com/onlyy.asar/"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="48" style="margin-left: 15px;" /></a>
-</div>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background: transparent;">
+  <tr>
+    <td width="50%" align="left" valign="middle">
+      <div style="font-family: 'VT323', monospace; font-size: 130px; line-height: 1;">
+        <span style="color: white;">Asa</span><span style="color: #FF6B00;">r</span>
+      </div>
+    </td>
+    <td width="50%" align="right" valign="middle">
+      <a href="mailto:syedasarudeen.s@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="56" /></a>
+      <a href="https://www.linkedin.com/in/syed-asarudeen-linked-In/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="56" /></a>
+      <a href="https://syedasarudeen.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="56" /></a>
+      <a href="https://www.instagram.com/onlyy.asar/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="56" /></a>
+    </td>
+  </tr>
+</table>
 
 <br clear="both"/>
 
