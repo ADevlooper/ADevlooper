@@ -61,14 +61,36 @@ const asar = {
   <tr>
     <td width="65%" valign="top" align="center">
       <h3>🛠️ Tech Stack</h3>
-      <div style="font-size: 45px; margin-top: 15px;">
-        <i class="fa-brands fa-html5" style="color: #E34F26; margin: 0 8px;"></i>
-        <i class="fa-brands fa-css3-alt" style="color: #1572B6; margin: 0 8px;"></i>
-        <i class="fa-brands fa-js" style="color: #F7DF1E; margin: 0 8px;"></i>
-        <i class="fa-brands fa-react" style="color: #61DAFB; margin: 0 8px;"></i>
-        <i class="fa-brands fa-node-js" style="color: #339933; margin: 0 8px;"></i>
-        <i class="fa-brands fa-git-alt" style="color: #F05032; margin: 0 8px;"></i>
-        <i class="fa-brands fa-github" style="color: #ffffff; margin: 0 8px;"></i>
+      <div style="font-size: 38px; margin-top: 15px; line-height: 1.6;">
+        <!-- UI & Styling -->
+        <i class="fa-brands fa-html5" title="HTML5" style="color: #E34F26; margin: 0 8px;"></i>
+        <i class="fa-brands fa-css3-alt" title="CSS3" style="color: #1572B6; margin: 0 8px;"></i>
+        <i class="fa-brands fa-bootstrap" title="Bootstrap" style="color: #7952B3; margin: 0 8px;"></i>
+        <i class="fa-solid fa-wind" title="Tailwind CSS" style="color: #06B6D4; margin: 0 8px;"></i>
+        <i class="fa-brands fa-js" title="JavaScript" style="color: #F7DF1E; margin: 0 8px;"></i>
+        <i class="fa-brands fa-react" title="React" style="color: #61DAFB; margin: 0 8px;"></i>
+        <br/>
+        <!-- Tools & State -->
+        <i class="fa-solid fa-bolt" title="Vite" style="color: #646CFF; margin: 0 8px;"></i>
+        <i class="fa-solid fa-code-branch" title="Redux" style="color: #764ABC; margin: 0 8px;"></i>
+        <i class="fa-solid fa-network-wired" title="Axios" style="color: #5A29E4; margin: 0 8px;"></i>
+        <i class="fa-brands fa-node-js" title="Node.js" style="color: #339933; margin: 0 8px;"></i>
+        <i class="fa-brands fa-node" title="Express.js" style="color: #ffffff; margin: 0 8px;"></i>
+        <i class="fa-solid fa-leaf" title="MongoDB" style="color: #47A248; margin: 0 8px;"></i>
+        <br/>
+        <!-- DevOps & Platforms -->
+        <i class="fa-brands fa-git-alt" title="Git" style="color: #F05032; margin: 0 8px;"></i>
+        <i class="fa-brands fa-github" title="GitHub" style="color: #ffffff; margin: 0 8px;"></i>
+        <i class="fa-solid fa-rocket" title="Postman" style="color: #FF6C37; margin: 0 8px;"></i>
+        <i class="fa-solid fa-caret-up" title="Vercel" style="color: #ffffff; margin: 0 8px;"></i>
+        <i class="fa-solid fa-diamond" title="Netlify" style="color: #00C7B7; margin: 0 8px;"></i>
+        <i class="fa-solid fa-cloud" title="Render" style="color: #46E3B7; margin: 0 8px;"></i>
+        <br/>
+        <!-- Design & Docs -->
+        <i class="fa-brands fa-figma" title="Figma" style="color: #F24E1E; margin: 0 8px;"></i>
+        <i class="fa-brands fa-adobe" title="Photoshop" style="color: #FF0000; margin: 0 8px;"></i>
+        <i class="fa-solid fa-file-word" title="MS Word" style="color: #2B579A; margin: 0 8px;"></i>
+        <i class="fa-solid fa-file-excel" title="MS Excel" style="color: #217346; margin: 0 8px;"></i>
       </div>
     </td>
     <td width="35%" valign="top" align="center">
