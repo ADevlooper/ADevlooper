@@ -22,9 +22,9 @@ const asar = {
 
 <br/>
 
-> *"The more varieties of different kinds of notations are still useful - don't only read the people who code like you."*
+> *"Code is like humor. When you have to explain it, it's bad."*
 >
-> — Donald Knuth
+> — Cory House
 
 <br clear="both"/>
 <br/>
