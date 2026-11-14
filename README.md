@@ -2,7 +2,9 @@
   <img src="./assets/hero/profile-hero.jpeg" alt="Hero Banner" width="100%" />
 </div>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Syed+Asarudeen+(ASAR);Full+Stack+Developer+%7C+MERN+Stack;Software+Engineer+%40+Sierra+ODC;Turning+ideas+into+web+apps+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ### 🔗 About Me
 
@@ -10,11 +12,14 @@
 
 ```javascript
 const asar = {
-  role: "Software Engineer @ Sierra ODC Pvt Lmt",
-  focus: "Full Stack Developer",
+  role: "Software Engineer @ Sierra ODC Pvt Ltd",
+  location: "Coimbatore, India",
+  focus: "Full Stack Developer (MERN)",
+  currentlyLearning: ["TypeScript", "Next.js", "Docker"],
   interests: [
     "Exploring new technologies",
     "Web development",
+    "Machine learning for real-world problems",
     "Open-source projects"
   ]
 };
@@ -27,6 +32,25 @@ const asar = {
 > — Cory House
 
 <br clear="both"/>
+<br/>
+
+### 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Domate**](https://github.com/Kishore00426/Domate) | Online service booking platform: browse, book and manage home services | React · Node.js · Express · MongoDB |
+| [**Agro-Smart**](https://github.com/ADevlooper/Agro-Smart) | ML-powered assistant that helps farmers make data-driven crop decisions | Python · Jupyter Notebook |
+| [**Smoke-and-Wildfire-Detection**](https://github.com/ADevlooper/Smoke-and-Wildfire-Detection) | Computer-vision model that detects smoke and wildfire for early alerts | Python · Deep Learning |
+
+<br/>
+
+### 🌱 Currently
+
+- 🔭 Building full-stack products at **Sierra ODC**
+- 🌱 Learning **TypeScript, Next.js & Docker**
+- 🤝 Open to collaborating on **open-source web projects**
+- 💬 Ask me about **React, Node.js, MongoDB & Tailwind**
+
 <br/>
 
 ### 🔗 Connect With Me
@@ -44,7 +68,7 @@ const asar = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,express,mongodb,tailwind,bootstrap,git,github,figma,postman,vite,vercel,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,express,mongodb,tailwind,bootstrap,git,github,figma,postman,vite,vercel,ps,python&perline=12" />
   </a>
 </p>
 
@@ -68,17 +92,18 @@ const asar = {
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ADevlooper&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-language?username=ADevlooper&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ADevlooper&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <br/>
 
-### 🏆 GitHub Trophies
+### 🐍 Contribution Snake
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ADevlooper&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADevlooper/ADevlooper/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/ADevlooper/ADevlooper/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <br/>
@@ -87,5 +112,5 @@ const asar = {
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ADevlooper&color=00F0FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <p><i>Building with passion.</i></p>
+  <p><i>Building with passion. ✨</i></p>
 </div>
